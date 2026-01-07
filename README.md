@@ -80,7 +80,7 @@ The project showcases sophisticated SQL techniques through 10 complex queries:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Krissaan-amen/PROJET-BDD-JAZZ.git
+git clone https://github.com/Krissaan-amen/Jazz-Event-Management-System.git
 cd PROJET-BDD-JAZZ
 
 # Launch Jupyter notebook
